@@ -1,0 +1,11 @@
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=true
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	remote.origin.url=https://github.com/BarnacleCode/GO-Learning.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+file:.git/config	branch.master.remote=origin
+file:.git/config	branch.master.merge=refs/heads/master
+file:.git/config	pull.rebase=false
+file:.git/config	remote.Enter.url=https://github.com/BarnacleCode/GO-Learning.git
+file:.git/config	remote.Enter.fetch=+refs/heads/*:refs/remotes/Enter/*
