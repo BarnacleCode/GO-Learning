@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func printvar() {
 	var str string
 
 	//assign values
